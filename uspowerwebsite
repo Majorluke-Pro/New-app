@@ -1,0 +1,2186 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="USP&amp;E sells, ships, and services containerized HFO powerplants, HFO generators, diesel generators, diesel gensets, and natural gas turbines around the world" />
+    <meta name="keywords" content="used diesel generators, diesel gensets, HFO generators, HFO power plants, containerized hfo generators, natural gas turbines, power generator" />
+
+    <meta name="author" content="ZooSoft">
+    <link rel="icon" href="/favicon.ico">
+
+    <link rel="shortcut icon" href='/favicon.ico' type='image/x-icon' />
+    <link rel="apple-touch-icon" href="/__images/apple-72x72.png">
+
+    <title>HFO Powerplants, Diesel Generators, Containerized HFO Diesel Generators & Gas Turbines for Sale</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/__css/bootstrap_3.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="/__css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/__js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+    <!-- Custom styles for this template -->
+    <link href="/__css/carousel.css" rel="stylesheet">
+
+    <script type="text/javascript">
+  		var _gaq = _gaq || [];
+  		_gaq.push(['_setAccount', 'UA-86215446-1']);
+  		_gaq.push(['_trackPageview']);
+
+  		(function() {
+  			var ga = document.createElement('script');
+  			ga.type = 'text/javascript';
+  			ga.async = true;
+  			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  			var s = document.getElementsByTagName('script')[0];
+  			s.parentNode.insertBefore(ga, s);
+  		})();
+  	</script>
+</head>
+<!-- NAVBAR
+================================================== -->
+
+<body>
+    <div class="navbar-wrapper">
+        <div class="container">
+
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+                        <!-- <a class="navbar-brand" href="#">USP&E</a> -->
+                        <img class="navbar-brand" style="padding:5px;" src="/__images/header_logo_trans_w_small.png">
+
+                    </div>
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Company <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/commitment">Our Commitment</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li class="dropdown-header">About</li>
+                                    <li><a href="/about">About USP&E</a></li>
+                                    <li><a href="/about/offices">USP&amp;E Offices</a></li>
+                                    <li><a href="/info/news">News Releases</a></li>
+                                    <li><a href="/info/join-our-team">Join Our Team</a></li>
+                                    <li><a href="/careers">USP&amp;E Careers</a></li>
+                                    <li><a href="/videos">Videos</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li class="dropdown-header">Info</li>
+                                    <li><a href="/info">USP&E Information</a></li>
+                                    <li><a href="/info/resources">Technical Resources</a></li>
+                                    <li><a href="/articles">Articles</a></li>
+                                    <li><a href="/about/service/community">Corporate Social Responsibility</a></li>
+                                    <li><a href="/info/environmental-policy">Environmental Policy</a></li>
+                                    <li><a href="/info/newsletter">Join Our Newsletter Mailing List</a></li>
+                                    <li><a href="/__docs/Terms and Conditions for Sales Rev 3.pdf">USP&amp;E Terms and Conditions</a></li>
+                                    <li><a href="/__docs/USPE Rental T&C Supplement.pdf">USP&amp;E Rental Terms and Conditions</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li><a href="/case-studies">Case Studies</a></li>
+                                    <li><a href="/client-references">Client References</a></li>
+                                    <li><a href="/project-photos">Project Photos</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="/all/generators" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/productoverview">Our Products</a></li>
+                                    <li role="separator" class="divider"></li>
+                                    <li class="dropdown-header">New Generators</li>
+                                    <li><a href="/new/generators">All New Generators</a></li>
+                                    <li><a href="/new/uspower/generators">US Power & Environment</a></li>
+                                    <!--                                             <li>
+                                                <a href='/new/uspower/generators'>
+                                                    US Power &amp; Environment                                                </a>
+                                            </li>
+                                                                                    <li>
+                                            <a href='/new/baldor/generators'>
+                                                Baldor                                            </a>
+                                        </li>
+                                                                                    <li>
+                                                <a href='/new/magnum-products-llc/generators'>
+                                                    Magnum Products LLC                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/hipower-systems/generators'>
+                                                    Hipower Systems                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/wacker-neuson/generators'>
+                                                    Wacker Neuson                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/httpwwwbroadcrownusacombroadcrownindexphp/generators'>
+                                                    Broadcrown                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/mtu-onsite-energy/generators'>
+                                                    MTU Onsite Energy                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/jesco-diesel-generators--power-control-systems/generators'>
+                                                    JESCO Diesel Generators & Power Control Systems                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/wwwprimapowersyscom/generators'>
+                                                    Prima Power Systems Inc.                                                </a>
+                                            </li>
+                                                                                        <li>
+                                                <a href='/new/jean-bernard-lasnaud/generators'>
+                                                    Jean-Bernard Lasnaud                                                </a>
+                                            </li>
+                                             -->
+                                                <li><a href="/surplus/generators">Surplus Generators</a></li>
+                                                <li><a href="/used/generators">Used Generators</a></li>
+                                                <li><a href="/all/hfo-generators">Containerized HFO<br>Generators</a></li>
+
+                                                <li role="separator" class="divider"></li>
+                                                <li class="dropdown-header">Diesel Generators</li>
+                                                <li><a href="/all/diesel-generators/">All Diesel Generators</a>
+                                                    <li><a href="/all/caterpillar/diesel-generators">Caterpillar Diesel Generators</a></li>
+                                                    <li><a href="/all/cummins-onan/diesel-generators">Cummins Diesel Generators</a></li>
+
+                                                    <li role="separator" class="divider"></li>
+                                                    <li class="dropdown-header">Natural Gas Generators and Turbines</li>
+                                                    <li><a href="/all/natural-gas-generators/">All Natural Gas Generators and Turbines</a>
+                                                        <li><a href="/all/caterpillar/natural-gas-generators">Caterpillar Natural Gas Generators</a></li>
+                                                        <li><a href="/all/cummins-onan/natural-gas-generators">Cummins Natural Gas Generators</a></li>
+
+                                                        <li role="separator" class="divider"></li>
+                                                        <li class="dropdown-header">Generators By Wattage</li>
+                                                        <li><a href="/all/10kw-810kw/generators">10-810kw</a></li>
+                                                        <li><a href="/all/820kw-1250kw/generators">820-1250kw</a></li>
+                                                        <li><a href="/all/1260kw-2000kw/generators">1260-2000kw</a></li>
+                                                        <li><a href="/all/gt2010kw/generators">2010-higher</a></li>
+
+                                                        <li role="separator" class="divider"></li>
+                                                        <li class="dropdown-header">Accessories</li>
+                                                        <li><a href="/accessories">All Accessories</a>
+                                                            <li><a href="/accessories/enclosures">Sound Attenuated Enclosures</a></li>
+                                                            <li><a href="/accessories/custom-enclosures">Custom Enclosures</a></li>
+                                                            <li><a href="/accessories/ats-switchgear">ATS and Switchgear</a></li>
+                                                            <!-- <li><a href="/accessories/transformers">New and Used Transformers</a></li>
+                                                            <li><a href="/green-power/emissions-reduction">Emissions Reduction Products</a></li> -->
+
+                                                            <!-- <li role="separator" class="divider"></li>
+                                                            <li class="dropdown-header">Green Power</li> -->
+                                                            <!-- <li><a href="//green-power">All Green Power</a> -->
+                                                                <!-- <li><a href="/green-power/eco-leap">EcoLeap Power System</a></li>
+                                                                <li><a href="/green-power/dc-leap">DCLeap On-Line UPS</a></li>
+                                                                <li><a href="/green-power/gen-leap">GenLeap DC Generator</a></li>
+                                                                <li><a href="/green-power/sine-leap">SineLeap Line Interactive UPS</a></li>
+                                                                <li><a href="/green-power/sun-leap">SunLeap Solar Power</a></li> -->
+                                                                <!-- <li><a href="/green-power/renewable-power-plant">Renewable Power Plant</a></li> -->
+
+                                                                <li role="separator" class="divider"></li>
+                                                                <!-- <li><a href="/about/rental">USP&amp;E Rental/Hire</a></li>
+                                                                <li><a href="/generators/towable">Portable Towable Generators</a></li> -->
+                                                                <li><a href="/generators/commissioning">Generator Commissioning Services</a></li>
+                                                                <li><a href="/generators/warranties">Extended Warranties</a></li>
+                                                                <li><a href="/generators/sell">Sell Your Generator</a></li>
+                                                                <li><a href="/generators/all">SEARCH Our Inventory</a></li>
+                                </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/about/service">Our Services</a></li>
+                                        <li><a href="/solutionsoverview">Our Solutions</a></li>
+                                        <li><a href="/solutions/hhi-power-generation-equipment/">Power Generation</a></li>
+
+                                        <li role="separator" class="divider"></li>
+                                        <li class="dropdown-header">EPC - Engineering</li>
+                                        <li><a href="/case-studies">Case Studies</a></li>
+                                        <li><a href="/services/modifications">Upgrades &amp; Modifications</a></li>
+                                        <li><a href="/services/surveys">Free Site Surveys</a></li>
+                                        <li><a href="/services/studies">Feasibility Studies</a></li>
+                                        <li><a href="/services/engineering">Full Spectrum Electrical, Civil and Mechanical Engineering Services</a></li>
+                                        <li><a href="http://datacenterbuild.com/">Data Center Services</a></li>
+
+                                        <li role="separator" class="divider"></li>
+                                        <li class="dropdown-header">EPC - Procurement</li>
+                                        <li><a href="/about/sales">New &amp; Used Generator Sales</a></li>
+                                        <li><a href="/accessories/enclosures">Generator Enclosures &amp; Fuel Tanks</a></li>
+                                        <li><a href="/accessories/ats-switchgear">Switchgear, Power Cable and Distribution </a></li>
+                                        <li><a href="/services/spares">Spare Parts</a></li>
+                                        <li><a href="/services/commissioning">Commissioning &amp; Load Bank Testing</a></li>
+
+                                        <li role="separator" class="divider"></li>
+                                        <li class="dropdown-header">EPC - Construction</li>
+                                        <li><a href="/about/service/construction">Construction &amp; HFO Generator Installation</a></li>
+                                        <li><a href="/project-photos">Project Photos</a></li>
+                                        <li><a href="/client-references">Client References</a></li>
+                                        <li><a href="http://datacenterbuild.com/">Data Center Build</a></li>
+
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="/green-power/emissions-reduction">Emissions Reduction Products</a></li>
+
+                                        <li role="separator" class="divider"></li>
+                                        <li class="dropdown-header">Global Service and Maintenance</li>
+                                        <li><a href="/about/service/intro">About Service and Maintenance</a>
+                                            <li><a href="/about/service/intro">Introduction</a>
+                                                <li><a href="/about/service/onsite-technicians#csma">Customer Service &amp; Maintenance Agreements</a></li>
+                                                <li><a href="/about/service/onsite-technicians#onsite-team">Your On-Site Team</a></li>
+                                                <li><a href="/about/service/training">Local National Training</a></li>
+                                                <li><a href="/about/service/fuel-efficiency">Fuel Efficiency Optimization</a>
+                                                    <li><a href="/about/service/continued-improvement">Continual Improvement</a></li>
+                                                    <li><a href="/about/service/performance-reporting">O&amp;M Performance Reporting</a></li>
+                                                    <li><a href="/about/service/managed-spares">OEM Spare Management</a></li>
+                                                    <li><a href="/about/service/construction">Power Station Construction</a></li>
+                                                    <li><a href="/about/service/generators">New Generators &amp; Surplus Generators</a></li>
+                                                    <li><a href="/about/service/conclusion">Conclusion</a></li>
+                                                    <li><a href="/about/service/guidelines">Procedural Guidelines</a></li>
+
+
+
+
+
+
+                                                    <li><a href="/solutions/hhi-power-generation-equipment/">Power Generation</a></li>
+                                                    <li><a href="/about/offices">USP&amp;E Offices</a></li>
+                                                    <li><a href="/info/news">News Releases</a></li>
+                                                    <li><a href="/info/join-our-team">Join Our Team</a></li>
+                                                    <li><a href="/careers">USP&amp;E Careers</a></li>
+                                                    <li><a href="/videos">Videos</a></li>
+                                                    <li role="separator" class="divider"></li>
+                                                    <li class="dropdown-header">Info</li>
+                                                    <li><a href="/info">USP&E Information</a></li>
+                                                    <li><a href="/info/resources">Technical Resources</a></li>
+                                                    <li><a href="/articles">Articles</a></li>
+                                                    <li><a href="/about/service/community">Corporate Social Responsibility</a></li>
+                                                    <li><a href="/info/environmental-policy">Environmental Policy</a></li>
+                                                    <li><a href="/info/newsletter">Join Our Newsletter Mailing List</a></li>
+                                                    <li><a href="/__docs/Terms and Conditions for Sales Rev 3.pdf">USP&amp;E Terms and Conditions</a></li>
+                                                    <li><a href="/__docs/USPE Rental T&C Supplement.pdf">USP&amp;E Rental Terms and Conditions</a></li>
+                                                    <li role="separator" class="divider"></li>
+                                                    <li><a href="/case-studies">Case Studies</a></li>
+                                                    <li><a href="/client-references">Client References</a></li>
+                                                    <li><a href="/project-photos">Project Photos</a></li>
+                                    </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectors <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/sectoroverview">Our Sectors</a></li>
+                                            <li><a href="/defenceoverview">Defence - FORGE GLOBAL</a></li>
+                                            <li><a href="/sectors/mining-sector">Mining Sector</a></li>
+                                            <li><a href="/sectors/oil-and-gas-regions/">Oil &amp; Gas Sector</a></li>
+                                            <li><a href="/sectors/africa-regions/">Africa Regions</a></li>
+                                            <li><a href="/sectors/renewable-energy/">Renewable Energy</a></li>
+                                            <li><a href="/sectors/bridge-power/">Bridge Power</a></li>
+                                            <li><a href="/sectors/ipp-sector">IPP Sector</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Media <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="http://www.uspowerco.com/videos">Media</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact <span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="https://www.uspeglobal.com/pages/request-a-quote"><img src="/__images/request.png" id="rq-img" /></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                        </ul>
+                        <!-- <img class="navbar-brand pull-right" src="/__images/hc1.jpg">
+              <img class="navbar-brand pull-right" src="/__images/hc2.jpg">
+              <img class="navbar-brand pull-right" src="/__images/hc3.jpg"> -->
+
+                        <!-- <div class="nav navbar-nav pull-right">
+                            <img class="navbar-brand" src='/__images/phone-icon.png' />
+                            <span class="navbar-brand">+27-72-955-2560</span>
+                        </div> -->
+
+                        <div id='social-icons' class="pull-right">
+                            <a href='https://www.facebook.com/uspeteam'><img class="navbar-brand" src='/__images/facebook-icon.png' /></a>
+                            <a href='https://twitter.com/uspeglobal'><img class="navbar-brand" src='/__images/twitter-icon.png' /></a>
+                            <a href='https://plus.google.com/109136921882467459649'><img class="navbar-brand" src='/__images/g+-icon.png' /></a>
+                            <a href='https://www.linkedin.com/company/usp&e-global'><img class="navbar-brand" src='/__images/linkedin-icon.png' /></a>
+                            <a href='https://www.youtube.com/user/uspeglobal'><img class="navbar-brand" src='/__images/youtube-icon.png' /></a>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+        </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img class="first-slide" src="/__images/newbg1.jpg">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Power Station EPC and O&M</h1>
+                        <p>We have years of experience in Engineering, Procurement and Construction as well as Operations and Maintenance</p>
+                        <p><a class="btn btn-lg btn-primary" href="http://www.uspowerco.com/about/service/construction" role="button">Read More</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img class="second-slide" src="/__images/newbg2.jpg">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>We're ready to start your project...</h1>
+                        <p>Are You? Please fill in our POWER PLANT PROPOSAL INFORMATIONAL FORM to get the process started</p>
+                        <p><a class="btn btn-lg btn-primary" href="https://www.uspeglobal.com/pages/request-a-quote" role="button">Get Started</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img class="third-slide" src="/__images/newbg3.jpg">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>Massive Supply of Diesel and HFO Generators</h1>
+                        <p>We've got them ready and we know how to ship. Trust us when you need power!</p>
+                        <p><a class="btn btn-lg btn-primary" href="http://www.uspowerco.com/all/generators" role="button">Browse Generators</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <!-- /.carousel -->
+
+
+
+
+
+
+    <!-- <div id="wrapper">
+  <div id="wrapper_shadow">-->
+
+        <div class="container marketing">
+
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title">Find a Generator <span class="label label-default">New Stock!</span></h3>
+            </div>
+            <div class="panel-body">
+              <div class="btn-group btn-group-justified" role="group" aria-label="...">
+                <div class="btn-group" role="group">
+                <a class="btn btn-info" role="button" href="/all/diesel-generators/">Diesel Generators</a>
+                </div>
+                <div class="btn-group" role="group">
+                <a class="btn btn-info" role="button" href="/all/natural-gas-generators/">Natural Gas Generators</a>
+                </div>
+                <div class="btn-group" role="group">
+                <a class="btn btn-info" role="button" href="/all/hfo-generators">HFO Generators</a>
+              </div>
+              </div>
+              <br>
+
+                <div id="generatorfinder" style="display:none;" class="row col-md-12">
+                    <!-- C8C8C8 -->
+                    <form name="genfinderform" id="genfinderform-form" action="/generator-search" method="get">
+                        <input type="hidden" name="type" id="gfinputc" value="">
+                        <input type="hidden" name="fuel" id="gfinputf" value="">
+                        <input type="hidden" name="min_kw" id="gfinputwmin" value="">
+                        <input type="hidden" name="max_kw" id="gfinputwmax" value="">
+
+
+                        <div class="col-md-2 dropdown center">
+                            <button class="btn btn-default btn-block dropdown-toggle" id="conditionpicker" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span id="gfvalc">Condition</span><span class="caret"></span></button>
+                            <div id="cpop" style="display:none;">
+                                <div class="gfpickable gfpc" data-val="all">Any</div>
+                                <div class="gfpickable gfpc" data-val="used">Used (795)</div>
+                                <div class="gfpickable gfpc" data-val="new">New (103)</div>
+                                <div class="gfpickable gfpc" data-val="surplus">Surplus (222)</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-2 dropdown center">
+                            <button class="btn btn-default btn-block dropdown-toggle" id="fuelpicker" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span id="gfvalf">Fuel Type</span><span class="caret"></span></button>
+                            <div id="fpop" style="display:none;">
+                                <div class="gfpickable gfpf" data-val="">Any</div>
+                                <div class="gfpickable gfpf" data-val="1">Diesel (873)</div>
+                                <div class="gfpickable gfpf" data-val="4">Natural Gas (47)</div>
+                                <div class="gfpickable gfpf" data-val="3">Propane (9)</div>
+                                <div class="gfpickable gfpf" data-val="5">HFO (18)</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-2 dropdown">
+                            <button class="btn btn-default btn-block dropdown-toggle" id="wattpicker" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><span id="gfvalw">Wattage</span><span class="caret"></span></button>
+                            <div id="wpop" style="display:none;">
+                                <div class="gfpickable gfpw" data-valmin="" data-valmax="">Any</div>
+                                <div class="gfpickable gfpw" data-valmin="1" data-valmax="100">1 - 100 kW (357)</div>
+                                <div class="gfpickable gfpw" data-valmin="100" data-valmax="250">100 - 250 kW (191)</div>
+                                <div class="gfpickable gfpw" data-valmin="250" data-valmax="500">250 - 500 kW (180)</div>
+                                <div class="gfpickable gfpw" data-valmin="500" data-valmax="999">500 - 999 kW (159)</div>
+                                <div class="gfpickable gfpw" data-valmin="1000" data-valmax="2000">1 - 2 MW (220)</div>
+                                <div class="gfpickable gfpw" data-valmin="2000" data-valmax="3000">2 - 3 MW (80)</div>
+                                <div class="gfpickable gfpw" data-valmin="3000" data-valmax="">3+ MW (33)</div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+
+                            <button id="gfsubmitbtn" class="btn btn-success btn-block" onclick="submit()">View Available Equipment Here</button>
+                        </div>
+                        <!-- <table>
+          <tr>
+            <td rowspan="2" valign="top" style="padding: 2px 20px; text-align:center; color: #333; font-weight:bold; font-size: 1.2em;" </td>Generator<br>Finder</td>
+            <td style="color:#fff; font-weight:bold; padding-left: 4px;">Condition</td>
+            <td style="color:#fff; font-weight:bold; padding-left: 4px;">Fuel Type</td>
+            <td style="color:#fff; font-weight:bold; padding-left: 4px;">Wattage</td>
+            <td rowspan="2" valign="top" style="padding: 0 15px; text-align:center; color: #333; font-weight:bold;" </td><button id="gfsubmitbtn" class="gfbtn" onclick="submit()">View Available Power Station Equipment Here</button></td>
+            <td rowspan="2" valign="top" style="padding-top: 10px; text-align:center; color: #333; font-weight:bold;" </td><a href="/all/generators" style="color: #333; font-weight: normal;">Advanced Equipment Search</a></td>
+          </tr>
+          <tr>
+            <td style="width: 120px; vertical-align: top; padding-left: 4px;">
+              <div class="gfpicker" id="conditionpicker"><span id="gfvalc">Any</span><span class="gfdown">V</span></div>
+              <div id="cpop" style="display:none;">
+                <div class="gfpickable gfpc" data-val="all">Any</div>
+                <div class="gfpickable gfpc" data-val="used">Used (795)</div>
+                <div class="gfpickable gfpc" data-val="new">New (103)</div>
+                <div class="gfpickable gfpc" data-val="surplus">Surplus (222)</div>
+              </div>
+            </td>
+            <td style="width: 130px; vertical-align: top; padding-left: 4px;">
+              <div class="gfpicker" id="fuelpicker"><span id="gfvalf">Any</span><span class="gfdown">V</span></div>
+              <div id="fpop" style="display:none;">
+                <div class="gfpickable gfpf" data-val="">Any</div>
+                <div class="gfpickable gfpf" data-val="1">Diesel (873)</div>
+                <div class="gfpickable gfpf" data-val="4">Natural Gas (47)</div>
+                <div class="gfpickable gfpf" data-val="3">Propane (9)</div>
+                <div class="gfpickable gfpf" data-val="5">HFO (18)</div>
+              </div>
+            </td>
+            <td style="width: 130px; vertical-align: top; padding-left: 4px;">
+              <div class="gfpicker" id="wattpicker"><span id="gfvalw">Any</span><span class="gfdown">V</span></div>
+              <div id="wpop" style="display:none;">
+                <div class="gfpickable gfpw" data-valmin="" data-valmax="">Any</div>
+                <div class="gfpickable gfpw" data-valmin="1" data-valmax="100">1 - 100 kW (357)</div>
+                <div class="gfpickable gfpw" data-valmin="100" data-valmax="250">100 - 250 kW (191)</div>
+                <div class="gfpickable gfpw" data-valmin="250" data-valmax="500">250 - 500 kW (180)</div>
+                <div class="gfpickable gfpw" data-valmin="500" data-valmax="999">500 - 999 kW (159)</div>
+                <div class="gfpickable gfpw" data-valmin="1000" data-valmax="2000">1 - 2 MW (220)</div>
+                <div class="gfpickable gfpw" data-valmin="2000" data-valmax="3000">2 - 3 MW (80)</div>
+                <div class="gfpickable gfpw" data-valmin="3000" data-valmax="">3+ MW (33)</div>
+              </div>
+            </td>
+          </tr>
+        </table> -->
+                    </form>
+
+
+                </div>
+                <div id="wrapper">
+                    <div id="wrapper_shadow">
+
+                        
+                        <style>
+                            .gfpickable {
+                                margin: 3px 0;
+                                border: 1px solid #aaa;
+                                cursor: pointer;
+                                padding: 1px;
+                                padding-left: 4px;
+                            }
+
+                            .gfpickable:hover {
+                                border: 1px solid #fff;
+                            }
+
+                            .gfpicker {
+                                border: 1px solid #fff;
+                                padding-left: 4px;
+                                cursor: pointer;
+                            }
+
+                            .gfdown {
+                                float: right;
+                                border-left: 1px solid #fff;
+                                width: 16px;
+                                text-align: center;
+                                color: #fff;
+                                background: url(/__images/down_arrow.png);
+                            }
+
+                            .gfbtn {
+                                border: 1px solid #fff;
+                                cursor: pointer;
+                                padding: 5px 10px;
+                                margin-top: 4px;
+                                margin-left: 18px;
+                            }
+
+                            .gfbtn:hover {
+                                background: #fff;
+                            }
+
+                            #main {
+                                background: #fff;
+                            }
+                        </style>
+                        <script>
+                            jQuery(function($) {
+                                window.setTimeout(function() {
+                                    $('#generatorfinder').slideDown(600);
+                                }, 1400);
+
+                                $('#conditionpicker').click(function() {
+                                    $('#cpop').slideToggle()
+                                });
+                                $('.gfpc').click(function() {
+                                    $('#gfvalc').text($(this).text());
+                                    $('#gfinputc').val($(this).attr('data-val'));
+                                });
+                                $('#cpop').click(function() {
+                                    $(this).slideToggle()
+                                });
+
+                                $('#fuelpicker').click(function() {
+                                    $('#fpop').slideToggle()
+                                });
+                                $('.gfpf').click(function() {
+                                    $('#gfvalf').text($(this).text());
+                                    $('#gfinputf').val($(this).attr('data-val'));
+                                });
+                                $('#fpop').click(function() {
+                                    $(this).slideToggle()
+                                });
+
+                                $('#wattpicker').click(function() {
+                                    $('#wpop').slideToggle()
+                                });
+                                $('.gfpw').click(function() {
+                                    $('#gfvalw').text($(this).text());
+                                    $('#gfinputwmin').val($(this).attr('data-valmin'));
+                                    $('#gfinputwmax').val($(this).attr('data-valmax'));
+                                });
+                                $('#wpop').click(function() {
+                                    $(this).slideToggle()
+                                });
+
+                                $('#gfsubmitbtn').click(function() {
+                                    $('#genfinderform').submit()
+                                });
+                            });
+                        </script> 
+
+                        <!--END main-->
+                    </div>
+                    <!--END wrapper_shadow-->
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container marketing">
+      <!-- <div class="col-xs-0 col-sm-2 col-md-3">
+      </div> -->
+      <div class="panel panel-warning col-xs-12">
+          <div class="panel-heading">
+              <h3 class="panel-title">Best Value of the year!
+                <span class="label label-alert"></span>
+              </h3>
+              <a class="badge pull-right" href="/new/natural-gas-generators/ge-8980.htm">View Now...</a>
+          </div>
+          <div class="panel-body">
+            
+<!-- <div class="container-fluid"> -->
+	
+	<style>
+		.row > .col-xs-3 {
+		display:flex;
+		flex: 0 0 50%;
+		max-width: 50%
+}
+
+		.flex-nowrap {
+		    -webkit-flex-wrap: nowrap!important;
+		    -ms-flex-wrap: nowrap!important;
+		    flex-wrap: nowrap!important;
+		}
+		.flex-row {
+		    display:flex;
+		    -webkit-box-orient: horizontal!important;
+		    -webkit-box-direction: normal!important;
+		    -webkit-flex-direction: row!important;
+		    -ms-flex-direction: row!important;
+		    flex-direction: row!important;
+		}
+
+
+		.well {
+		    width: 100%;
+		}
+	</style>
+	
+						
+						
+						
+									<div class="row">
+				<div class="col-xs-12">
+					<div class="well">
+								<div class="row">
+									<div class="col-xs-3" style="padding-right:0px;padding-left:0px">
+									<a href="/new/hfo-generators/man-8980.htm" class="thumbnail" style="margin-bottom:0px">
+										<img src="/generators/medium/hDE3YoN9rfP6.jpg" alt="" style="width:100%;height:156px;object-fit:cover">
+									</a>
+									</div>
+								<div class="col-xs-6">
+										<h3>Item#: <a href="/new/hfo-generators/man-8980.htm">
+											USP008980
+										</a> <br/>
+										</h3>
+
+										<p style="margin-top:0px">
+											<a href="/new/hfo-generators/man-8980.htm">32.0 MW 2018 MAN 18V32/40 CD HFO Generator</a>
+										</p>
+										<p>
+											MUST SELL in 2019: New 32MW Super-Efficient HFO Power Station Complete with BOP In Stock and Ready To Ship from Cancelled Order.
+											<strong>Call today!!</strong>
+										</p>
+										<p>
+											<strong>ENGINEERING COMPLETED AND READY TO INSTALL!</strong>
+										</p>
+								</div>
+								<div class="col-xs-3">
+									<div class="column">
+									<h4>
+										 
+											$14,500,000.00
+										
+									</h4>
+									<a href="/new/hfo-generators/man-8980.htm">
+										<button class="btn btn-success">Request Quote</button>
+									</a>
+								</div>
+								</div>
+							</div>
+						</div>
+				</div>
+			</div>
+			
+						
+						
+						
+			
+
+        </div>
+    </div>
+    <!-- <div class="col-xs-0 col-sm-2 col-md-3">
+    </div> -->
+  </div>
+
+    <div class="container marketing">
+      <div class="panel panel-primary">
+          <div class="panel-heading">
+              <h3 class="panel-title">Hot Generators
+                <span class="label label-alert"></span>
+              </h3>
+              <a class="badge pull-right" href="/all/generators">View More...</a>
+          </div>
+          <div class="panel-body" style="overflow-x: auto">
+            
+<!-- <div class="container-fluid"> -->
+	
+	<style>
+		.row > .col-xs-3 {
+		display:flex;
+		flex: 0 0 50%;
+		max-width: 50%
+}
+
+		.flex-nowrap {
+		    -webkit-flex-wrap: nowrap!important;
+		    -ms-flex-wrap: nowrap!important;
+		    flex-wrap: nowrap!important;
+		}
+		.flex-row {
+		    display:flex;
+		    -webkit-box-orient: horizontal!important;
+		    -webkit-box-direction: normal!important;
+		    -webkit-flex-direction: row!important;
+		    -ms-flex-direction: row!important;
+		    flex-direction: row!important;
+		}
+
+
+		.well {
+		    width: 100%;
+		}
+	</style>
+	
+		<div class="row flex-row flex-nowrap">
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/natural-gas-generators/ge-9044.htm" class="thumbnail">
+									<img src="/generators/medium/Np1qEawpdlCf.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/natural-gas-generators/ge-9044.htm">1500.0 MW 2011 GE Frame 9F Natural Gas Generator</a>
+								</h4>
+				        <p>
+									
+									50 Hz, 3 x 750mW Natural Gas Based Combined Cycle...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $625,000,000.00
+						</div> -->
+					<!-- <a href="/new/natural-gas-generators/ge-9044.htm">
+						<img src="/generators/small/Np1qEawpdlCf.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/natural-gas-generators/ge-9044.htm"><b>1500.0 MW 2011 GE Frame 9F Natural Gas Generator</b>.</a>
+						
+						50 Hz, 3 x 750mW Natural Gas Based Combined Cycle...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/natural-gas-generators/ge-8976.htm" class="thumbnail">
+									<img src="/generators/medium/cDJvI7TdCykn.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/natural-gas-generators/ge-8976.htm">750.0 MW 2011 GE Frame 9F Natural Gas Generator</a>
+								</h4>
+				        <p>
+									
+									50 Hz, 1 x 750 MW Natural Gas Based Combined Cycle...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $262,500,000.00
+						</div> -->
+					<!-- <a href="/new/natural-gas-generators/ge-8976.htm">
+						<img src="/generators/small/cDJvI7TdCykn.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/natural-gas-generators/ge-8976.htm"><b>750.0 MW 2011 GE Frame 9F Natural Gas Generator</b>.</a>
+						
+						50 Hz, 1 x 750 MW Natural Gas Based Combined Cycle...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/natural-gas-generators/siemens-8913.htm" class="thumbnail">
+									<img src="/generators/medium/tXNlM6VFrL16.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/natural-gas-generators/siemens-8913.htm">254.0 MW 1998 TG50 D5 Natural Gas Generator</a>
+								</h4>
+				        <p>
+									
+									50 Hz, THIS ASSET MUST SELL!! PLEASE MAKE AN OFFER. WE...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $0.00
+						</div> -->
+					<!-- <a href="/new/natural-gas-generators/siemens-8913.htm">
+						<img src="/generators/small/tXNlM6VFrL16.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/natural-gas-generators/siemens-8913.htm"><b>254.0 MW 1998 TG50 D5 Natural Gas Generator</b>.</a>
+						
+						50 Hz, THIS ASSET MUST SELL!! PLEASE MAKE AN OFFER. WE...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/hfo-generators/man-8980.htm" class="thumbnail">
+									<img src="/generators/medium/hDE3YoN9rfP6.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/hfo-generators/man-8980.htm">32.0 MW 2018 MAN 18V32/40 CD HFO Generator</a>
+								</h4>
+				        <p>
+									
+									No Enclosure, 50 Hz, EXCLUSIVE FROM USP&E - PRICE NEGOTIABLE!...
+								</p>
+								<h4>
+									 
+										$14,500,000.00
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $14,500,000.00
+						</div> -->
+					<!-- <a href="/new/hfo-generators/man-8980.htm">
+						<img src="/generators/small/hDE3YoN9rfP6.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/hfo-generators/man-8980.htm"><b>32.0 MW 2018 MAN 18V32/40 CD HFO Generator</b>.</a>
+						
+						No Enclosure, 50 Hz, EXCLUSIVE FROM USP&E - PRICE NEGOTIABLE!...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/diesel-generators/cummins-onan-9027.htm" class="thumbnail">
+									<img src="/generators/medium/ZRhZ1fFhEeQa.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/diesel-generators/cummins-onan-9027.htm">30.0 MW 2018 KTA50G3 Diesel Generator</a>
+								</h4>
+				        <p>
+									
+									60 Hz, 30 MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+								</p>
+								<h4>
+									 
+										$8,694,000.00
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $8,694,000.00
+						</div> -->
+					<!-- <a href="/new/diesel-generators/cummins-onan-9027.htm">
+						<img src="/generators/small/ZRhZ1fFhEeQa.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/diesel-generators/cummins-onan-9027.htm"><b>30.0 MW 2018 KTA50G3 Diesel Generator</b>.</a>
+						
+						60 Hz, 30 MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/used/hfo-generators/wrtsil-9125.htm" class="thumbnail">
+									<img src="/generators/medium/Gdx5anG289g4.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/used/hfo-generators/wrtsil-9125.htm">20.4 MW 2017 20V32TS HFO Generator</a>
+								</h4>
+				        <p>
+									
+									50 Hz, 2 x 10MW Units AVAILABLE for immediate sale!...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $4,176,749.00
+						</div> -->
+					<!-- <a href="/used/hfo-generators/wrtsil-9125.htm">
+						<img src="/generators/small/Gdx5anG289g4.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/used/hfo-generators/wrtsil-9125.htm"><b>20.4 MW 2017 20V32TS HFO Generator</b>.</a>
+						
+						50 Hz, 2 x 10MW Units AVAILABLE for immediate sale!...
+					</span> -->
+				</div>
+			</div>
+							<div class="col-xs-3 col-sm-3">
+				<div class="well well-sm">
+						<div class="col-xs-3" style="padding-left:0px;padding-right:0px">
+							<a href="/new/hfo-generators/wrtsil-9182.htm" class="thumbnail">
+									<img src="/generators/medium/zRV4EWaAvixm.jpg" alt="Diesel Generator">
+					    </a>
+						</div>
+						<div class="col-xs-9">
+				        <h4 style="margin-top:0px">
+									<a href="/new/hfo-generators/wrtsil-9182.htm">10.2 MW 2017 20V32TS HFO Generator</a>
+								</h4>
+				        <p>
+									
+									50 Hz, 10MW AVAILABLE for immediate sale!
+
+Wartsila...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <div class="col-xs-3">
+							 $0.00
+						</div> -->
+					<!-- <a href="/new/hfo-generators/wrtsil-9182.htm">
+						<img src="/generators/small/zRV4EWaAvixm.jpg" alt="Diesel Generator" />
+					</a>
+					<span>
+						<a href="/new/hfo-generators/wrtsil-9182.htm"><b>10.2 MW 2017 20V32TS HFO Generator</b>.</a>
+						
+						50 Hz, 10MW AVAILABLE for immediate sale!
+
+Wartsila...
+					</span> -->
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+        </div>
+    </div>
+  </div>
+
+    <div class="container marketing">
+      <div class="panel panel-primary">
+          <div class="panel-heading">
+              <h3 class="panel-title">Download our Brochures <span class="label label-default">Download now!</span></h3>
+          </div>
+          <div class="panel-body">
+            <div class="btn-group btn-group-justified" role="group" aria-label="...">
+              <div class="btn-group" role="group">
+              <a class="btn btn-info" role="button" href="/__docs/O&M BROCHURE 2019 Updated .pdf" download>O&M</a>
+              </div>
+              <div class="btn-group" role="group">
+                <a class="btn btn-success" role="button" href="/__docs/UnlockingValue2019.pdf" download>Biomass-clean Energy</a>
+              </div>
+              <div class="btn-group" role="group">
+                  <a class="btn btn-info" role="button" href="/__docs/USPE MASTER OVERVIEW 2019.pdf" download>Company Overview</a>
+              </div>
+                <div class="btn-group" role="group">
+                  <a class="btn btn-success" role="button" href="/__docs/UnlockingValue2019.pdf" download>Consulting Brochure</a>
+              </div>
+              <div class="btn-group" role="group">
+                <a class="btn btn-info" role="button" href="/__docs/2019 Basic Time Table for Fast Track EPC of Power Station copy.pdf" download>Project Schedule</a>
+            </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
+        <!-- Three columns of text below the carousel -->
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <img class="img-rounded" src="/__images/newsec3.jpg" alt="Generic placeholder image">
+                <h2>Containerized HFO Generators</h2>
+                <p>USP&E has an enormous supply of new and used HFO powerplants, HFO generators, diesel generators, natural gas turbines, Cat generators, Cummins generators, and a large selection of generator accessories. Email us at <a href="mailto:info@uspowerco.com">info@uspowerco.com</a>                    and allow us to serve you...</p>
+                <p><a class="btn btn-default" href="http://www.uspowerco.com/all/hfo-generators" role="button">View details &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <img class="img-rounded" src="/__images/newsec2.jpg" alt="Generic placeholder image">
+                <h2>Renewable Energy Solutions</h2>
+                <p>USP&E is committed to providing sustainable, renewable energy solutions that are affordable, easy to install and operate in emerging markets, and environmentally friendly. Get in touch with us today for more information on our renewable
+                    energy solutions. We can be reached at <a href="mailto:info@uspowerco.com">info@uspowerco.com</a>.</p>
+                <p><a class="btn btn-default" href="http://www.uspowerco.com/sectors/renewable-energy/" role="button">View details &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <img class="img-rounded" src="/__images/newsec1.jpg" alt="Generic placeholder image">
+                <h2>Need a Natural Gas Turbine?</h2>
+                <p>US Power and Environment (USP&E) is the most respected and trusted supplier of power station EPC and O&M services in emerging markets around the world. We ship all sizes of generators around the world. Click on the button below to view
+                    our available Gas Turbines... </p>
+                <p><a class="btn btn-default" href="http://www.uspowerco.com/all/natural-gas-generators/" role="button">View details &raquo;</a></p>
+            </div>
+            <!-- /.col-lg-4 -->
+        </div>
+        <!-- /.row -->
+
+
+
+        <!-- START THE FEATURETTES -->
+
+        <hr class="featurette-divider">
+
+
+        <div class="row featurette">
+            <div class="col-md-10">
+                <h2 class="featurette-heading">We are known for our commitment to our clients.<span class="text-muted"> We love what we do!</span></h2>
+                <p class="lead">Our vision is to end extreme energy poverty in the emerging world by offering the most affordable, flexible, and reliable hybrid (HFO + Solar PV + Energy Storage) energy solutions available anywhere. USP&E's portfolio of products and services includes turnkey gas turbine power stations, HFO power stations, solar PV and wind turbine hybrid power stations, and biomass to liquid fuel conversion facilities. </p>
+                <p class="lead">USP&E was the <b>only third party power station operator</b> that had 100% up-time during the tragic Ebola crisis in West Africa in 2013-2015. We were blessed to have zero deaths and a perfect record because of our commitment to excellence and our tremendous security and safety team. </p>
+                <p class="lead"> The USP&E service offerings include the following main components, listed to the right, all related to Energy Infrastructure in Emerging Markets.
+                    <br /><br />
+
+                </p>
+
+            </div>
+            <div class="col-md-2">
+                <div class="col-md-12 col-sm-12">
+                    <b>USP&E Holdings Pty Ltd</b><br /> Design
+                    <br /> Engineering
+                    <br /> Construction
+                    <br /> Commissioning
+                    <br /> Operations & Maintenance<br />
+                    <br />
+                    <b>USP&E SL Pty Ltd</b><br /> Energy projects in Sierra Leone<br />
+                </div>
+            </div>
+        </div>
+  <!--
+        <hr class="featurette-divider">
+
+
+     <div class="row featurette">
+            <div class="col-md-9 col-md-push-3">
+                <h2 class="featurette-heading">New Partnership. <span class="text-muted">Keeping the ball rolling.</span></h2>
+                <p class="lead">The Spanish professional football organization “LaLiga” has entered the African market to further build its brand amongst the African public whom actively support and watch LaLiga. Opening offices across Africa, LaLiga has asked USP&E Companies to partner with LaLiga to gain access to a continent in love with the sport of football. LaLiga is a transformational organization that just shipped 30,000 footballs to strategic hubs across Africa. USP&E is a proud partner of LaLiga.</p>
+            </div>
+            <div class="col-md-3 col-md-pull-9">
+                <img class="featurette-image img-responsive center-block" src="/__images/laliga-v-600x600.png" alt="La Liga Logo">
+            </div>
+        </div>
+-->
+        <hr class="featurette-divider">
+
+
+        <div class="row featurette">
+            <div class="col-md-12">
+                <h2 class="featurette-heading">USP&amp;E is a <span class="text-muted">turnkey energy generation services company.</span></h2>
+                <p class="lead">We focus on fast-track HFO power plants, portable mobile diesel generators, and new and used gas turbines. We are excited about our growing renewables and hybrid energy practice. Many of our clients come to us in emergencies and natural disasters for our immediate bridge power solutions.</p>
+                <blockquote>
+                    <p> We ask a lot of questions as we travel the world on various projects for our clients.
+                        We are always learning more about the political, social, economic and environmental challenges of completing and operating power power plants, whether in North America, Europe, Australia, or the Emerging World.
+                        We understand and appreciate that the opportunities that our clients' projects bring to each region are invaluable, both to the local citizens and to their shareholders.
+                    </p>
+                    <footer>Will Gruver<cite title="Source Title"> - CEO of USP&E</cite></footer>
+                </blockquote>
+
+            </div>
+            <!-- <div class="col-md-4">
+                <img class="featurette-image img-responsive center-block" src="/__images/Will-Shrunk.jpg" alt="Will gruver">
+            </div> -->
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <div class="col-md-6" id="video1">
+                <h2>E, P &amp; C</h2>
+                <iframe width="350" height="197" src="https://www.youtube.com/embed/ZyHdA6SWH3Y" frameborder="0" allowfullscreen></iframe>
+            </div>
+
+            <div class="col-md-6" id="video2">
+                <h2>Operations &amp; Maintenance</h2>
+                <iframe width="350" height="197" src="https://www.youtube.com/embed/s2zaswsG5PA" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <h2 class="featurette-heading">USP&amp;E is ready to get started on your project... <span class="text-muted">Are you?</span></h2>
+            <p class="lead">With a focus on flexibility and innovation, USP&E is committed to designing, building and operating efficient, affordable, and reliable mobile and fixed power plants - with hybrid solar and renewable options to drive maximum value to all stakeholders. </p>
+            <p class="lead"><b>Send us an email at info@uspowerco.com</b> or click the Get Started button</p>
+
+            <div class="col-md-5" id="mb-button-start">
+                <a href='https://www.uspeglobal.com/pages/request-a-quote'><button type='button' class='btn btn-primary btn-lg btn-block footer-button' style="background: #45acf2; border-color: #45acf2;">LET'S GET STARTED</button></a>
+            </div>
+
+        </div>
+
+
+        <hr class="featurette-divider">
+
+        <!-- /END THE FEATURETTES -->
+
+        <div class="row featurette">
+<div class="panel panel-primary">
+		<div class="panel-heading">
+				<h3 class="panel-title">
+					Diesel Generators <span class="label label-default"></span>
+				</h3>
+				<a class="badge pull-right" href="/diesel-generators/">More Diesel Generators...</a>
+		</div>
+<div class="panel-body">
+	<div class="well">
+				<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+					<a href="/used/diesel-generators/perkins-8954.htm" class="thumbnail">
+						<img src="/generators/medium/aghrFDFnAXw0.jpg" alt="Diesel Generator" height="100" width="100">
+					</a>
+					</div>
+				<div class="col-xs-9">
+						<h4 style="margin-top:0px">
+							<a href="/used/diesel-generators/perkins-8954.htm">20.0 MW 2008 4016TAG2A Diesel Generator</a>
+						</h4>
+						<p>
+							~100 Hours.
+							50 Hz,  
+
+Subject: 4 x 20 MW High Efficiency Modern...
+						</p>
+						<h4>
+							 
+								$17,528,890.00
+							
+						</h4>
+				</div>
+				<!-- <a href="/used/diesel-generators/perkins-8954.htm">
+					<img src="/generators/small/aghrFDFnAXw0.jpg" alt="Diesel Generator" />
+				</a>
+				<span>
+					<a href="/used/diesel-generators/perkins-8954.htm"><b>20.0 MW 2008 4016TAG2A Diesel Generator</b>.</a>
+					~100 Hours.
+					50 Hz,  
+
+Subject: 4 x 20 MW High Efficiency Modern...
+				</span> -->
+			</div>
+		</div>
+	<div class="well">
+				<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+					<a href="/new/diesel-generators/caterpillar-9165.htm" class="thumbnail">
+						<img src="/generators/medium/TCu2O6Rab41J.jpg" alt="Diesel Generator" height="100" width="100">
+					</a>
+					</div>
+				<div class="col-xs-9">
+						<h4 style="margin-top:0px">
+							<a href="/new/diesel-generators/caterpillar-9165.htm">2.50 MW 2008 3516 Diesel Generator</a>
+						</h4>
+						<p>
+							
+							60 Hz, Make: Caterpillar 
+•	Model: 3516 
+•	Year...
+						</p>
+						<h4>
+															POA
+							
+						</h4>
+				</div>
+				<!-- <a href="/new/diesel-generators/caterpillar-9165.htm">
+					<img src="/generators/small/TCu2O6Rab41J.jpg" alt="Diesel Generator" />
+				</a>
+				<span>
+					<a href="/new/diesel-generators/caterpillar-9165.htm"><b>2.50 MW 2008 3516 Diesel Generator</b>.</a>
+					
+					60 Hz, Make: Caterpillar 
+•	Model: 3516 
+•	Year...
+				</span> -->
+			</div>
+		</div>
+	<div class="well">
+				<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+					<a href="/used/diesel-generators/caterpillar-9545.htm" class="thumbnail">
+						<img src="/generators/medium/dyLGGcZW0wsi.jpg" alt="Diesel Generator" height="100" width="100">
+					</a>
+					</div>
+				<div class="col-xs-9">
+						<h4 style="margin-top:0px">
+							<a href="/used/diesel-generators/caterpillar-9545.htm">2.00 MW 2009 XQ2000 3516B Diesel Generator</a>
+						</h4>
+						<p>
+							Low Hours.
+							50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 2...
+						</p>
+						<h4>
+															POA
+							
+						</h4>
+				</div>
+				<!-- <a href="/used/diesel-generators/caterpillar-9545.htm">
+					<img src="/generators/small/dyLGGcZW0wsi.jpg" alt="Diesel Generator" />
+				</a>
+				<span>
+					<a href="/used/diesel-generators/caterpillar-9545.htm"><b>2.00 MW 2009 XQ2000 3516B Diesel Generator</b>.</a>
+					Low Hours.
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 2...
+				</span> -->
+			</div>
+		</div>
+	<div class="well">
+				<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+					<a href="/new/diesel-generators/caterpillar-9544.htm" class="thumbnail">
+						<img src="/generators/medium/7npD1WmXLWVZ.jpg" alt="Diesel Generator" height="100" width="100">
+					</a>
+					</div>
+				<div class="col-xs-9">
+						<h4 style="margin-top:0px">
+							<a href="/new/diesel-generators/caterpillar-9544.htm">1.30 MW 2019 3512C Diesel Generator</a>
+						</h4>
+						<p>
+							
+							60 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 1.3...
+						</p>
+						<h4>
+															POA
+							
+						</h4>
+				</div>
+				<!-- <a href="/new/diesel-generators/caterpillar-9544.htm">
+					<img src="/generators/small/7npD1WmXLWVZ.jpg" alt="Diesel Generator" />
+				</a>
+				<span>
+					<a href="/new/diesel-generators/caterpillar-9544.htm"><b>1.30 MW 2019 3512C Diesel Generator</b>.</a>
+					
+					60 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 1.3...
+				</span> -->
+			</div>
+		</div>
+	<div class="well">
+				<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+					<a href="/new/diesel-generators/cummins-9210.htm" class="thumbnail">
+						<img src="/generators/medium/1NAnp7M3ZxR8.jpg" alt="Diesel Generator" height="100" width="100">
+					</a>
+					</div>
+				<div class="col-xs-9">
+						<h4 style="margin-top:0px">
+							<a href="/new/diesel-generators/cummins-9210.htm">1.29 MW 2019 YUSPE1619 Diesel Generator</a>
+						</h4>
+						<p>
+							
+							634.00gal Fuel Tank, No Enclosure, 60 Hz, GENSET POWERED BY CUMMINS TYPE KTA50G9 PRIME...
+						</p>
+						<h4>
+							 
+								$165,000.00
+							
+						</h4>
+				</div>
+				<!-- <a href="/new/diesel-generators/cummins-9210.htm">
+					<img src="/generators/small/1NAnp7M3ZxR8.jpg" alt="Diesel Generator" />
+				</a>
+				<span>
+					<a href="/new/diesel-generators/cummins-9210.htm"><b>1.29 MW 2019 YUSPE1619 Diesel Generator</b>.</a>
+					
+					634.00gal Fuel Tank, No Enclosure, 60 Hz, GENSET POWERED BY CUMMINS TYPE KTA50G9 PRIME...
+				</span> -->
+			</div>
+		</div>
+
+</div>
+	</div>
+
+	<div class="panel panel-info">
+			<div class="panel-heading">
+					<h3 class="panel-title">
+						Natural Gas Generators
+						<span class="label label-default"></span>
+					</h3>
+					<a class="badge label-info pull-right" href="/natural-gas-generators/">More Natural Gas Generators...</a>
+			</div>
+			<div class="panel-body">
+					<div class="well">
+					<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+						<a href="/new/natural-gas-generators/siemens-9458.htm" class="thumbnail">
+							<img src="/generators/medium/HQt67cvhyFxJ.jpg" alt="Diesel Generator" height="100" width="100">
+						</a>
+					</div>
+					<div class="col-xs-9">
+							<h4 style="margin-top:0px">
+								<a href="/new/natural-gas-generators/siemens-9458.htm">298.0 MW 2016 SGT5-4000F Natural Gas Generator</a>
+							</h4>
+							<p>
+								
+								50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+							</p>
+							<h4>
+																	POA
+								
+							</h4>
+					</div>
+					<!-- <a href="/new/natural-gas-generators/siemens-9458.htm">
+						<img src="/generators/small/HQt67cvhyFxJ.jpg" alt="Natural Gas Generator" />
+					</a>
+					<span>
+						<a href="/new/natural-gas-generators/siemens-9458.htm"><b>298.0 MW 2016 SGT5-4000F Natural Gas Generator</b>.</a>
+						
+						50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+					</span> -->
+				</div>
+				</div>
+					<div class="well">
+					<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+						<a href="/used/natural-gas-generators/mitsubishi-9538.htm" class="thumbnail">
+							<img src="/generators/medium/px3bjA8fnsRc.jpg" alt="Diesel Generator" height="100" width="100">
+						</a>
+					</div>
+					<div class="col-xs-9">
+							<h4 style="margin-top:0px">
+								<a href="/used/natural-gas-generators/mitsubishi-9538.htm">31.0 MW 2015 FT8 Natural Gas Generator</a>
+							</h4>
+							<p>
+								Low Hours.
+								60 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 31...
+							</p>
+							<h4>
+																	POA
+								
+							</h4>
+					</div>
+					<!-- <a href="/used/natural-gas-generators/mitsubishi-9538.htm">
+						<img src="/generators/small/px3bjA8fnsRc.jpg" alt="Natural Gas Generator" />
+					</a>
+					<span>
+						<a href="/used/natural-gas-generators/mitsubishi-9538.htm"><b>31.0 MW 2015 FT8 Natural Gas Generator</b>.</a>
+						Low Hours.
+						60 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 31...
+					</span> -->
+				</div>
+				</div>
+					<div class="well">
+					<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+						<a href="/new/natural-gas-generators/ge-9185.htm" class="thumbnail">
+							<img src="/generators/medium/qPSzZbvSl8nd.jpg" alt="Diesel Generator" height="100" width="100">
+						</a>
+					</div>
+					<div class="col-xs-9">
+							<h4 style="margin-top:0px">
+								<a href="/new/natural-gas-generators/ge-9185.htm">30.7 MW 2015 TM 2500+ Natural Gas Generator</a>
+							</h4>
+							<p>
+								
+								50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 3...
+							</p>
+							<h4>
+																	POA
+								
+							</h4>
+					</div>
+					<!-- <a href="/new/natural-gas-generators/ge-9185.htm">
+						<img src="/generators/small/qPSzZbvSl8nd.jpg" alt="Natural Gas Generator" />
+					</a>
+					<span>
+						<a href="/new/natural-gas-generators/ge-9185.htm"><b>30.7 MW 2015 TM 2500+ Natural Gas Generator</b>.</a>
+						
+						50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 3...
+					</span> -->
+				</div>
+				</div>
+					<div class="well">
+					<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+						<a href="/used/natural-gas-generators/siemens-9508.htm" class="thumbnail">
+							<img src="/generators/medium/DYa7nLz8sEjd.jpg" alt="Diesel Generator" height="100" width="100">
+						</a>
+					</div>
+					<div class="col-xs-9">
+							<h4 style="margin-top:0px">
+								<a href="/used/natural-gas-generators/siemens-9508.htm">4.20 MW 1997 SGT100 Natural Gas Generator</a>
+							</h4>
+							<p>
+								Low Hours.
+								50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 4.2...
+							</p>
+							<h4>
+																	POA
+								
+							</h4>
+					</div>
+					<!-- <a href="/used/natural-gas-generators/siemens-9508.htm">
+						<img src="/generators/small/DYa7nLz8sEjd.jpg" alt="Natural Gas Generator" />
+					</a>
+					<span>
+						<a href="/used/natural-gas-generators/siemens-9508.htm"><b>4.20 MW 1997 SGT100 Natural Gas Generator</b>.</a>
+						Low Hours.
+						50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 4.2...
+					</span> -->
+				</div>
+				</div>
+					<div class="well">
+					<div class="row">
+					<div class="col-xs-3" style="padding-right:0px">
+						<a href="/used/natural-gas-generators/caterpillar-9278.htm" class="thumbnail">
+							<img src="/generators/medium/SQYSSOnIgCII.jpg" alt="Diesel Generator" height="100" width="100">
+						</a>
+					</div>
+					<div class="col-xs-9">
+							<h4 style="margin-top:0px">
+								<a href="/used/natural-gas-generators/caterpillar-9278.htm">3.38 MW 1983 Solar C-40 Natural Gas Generator</a>
+							</h4>
+							<p>
+								Low Hours.
+								50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+							</p>
+							<h4>
+								 
+									$440,000.00
+								
+							</h4>
+					</div>
+					<!-- <a href="/used/natural-gas-generators/caterpillar-9278.htm">
+						<img src="/generators/small/SQYSSOnIgCII.jpg" alt="Natural Gas Generator" />
+					</a>
+					<span>
+						<a href="/used/natural-gas-generators/caterpillar-9278.htm"><b>3.38 MW 1983 Solar C-40 Natural Gas Generator</b>.</a>
+						Low Hours.
+						50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+					</span> -->
+				</div>
+				</div>
+	
+			</div>
+		</div>
+
+
+		<div class="panel panel-primary">
+				<div class="panel-heading">
+						<h3 class="panel-title">Large Power Stations <span class="label label-default"></span></h3>
+						<a class="badge label-info pull-right" href="/wattage/2010-higher/">More Large Power Stations &#187;</a>
+				</div>
+				<div class="panel-body">
+							<div class="well">
+						<div class="row">
+						<div class="col-xs-3" style="padding-right:0px">
+							<a href="/used/natural-gas-generators/wrtsil-9124.htm" class="thumbnail">
+								<img src="/generators/medium/CoCQsyG8sY2B.jpg" alt="Diesel Generator" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-xs-9">
+								<h4 style="margin-top:0px">
+									<a href="/used/natural-gas-generators/wrtsil-9124.htm">40.3 MW 2010 20V34SG Natural Gas Generator</a>
+								</h4>
+								<p>
+									Low Hours.
+									50 Hz, 40MW Natural Gas Wartsila Combine Cycle Power...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <a href="/used/natural-gas-generators/wrtsil-9124.htm">
+							<img src="/generators/small/CoCQsyG8sY2B.jpg" alt="Large Power Station" />
+						</a>
+						<span>
+							<a href="/used/natural-gas-generators/wrtsil-9124.htm"><b>40.3 MW 2010 20V34SG Natural Gas Generator</b>.</a>
+							Low Hours.
+							50 Hz, 40MW Natural Gas Wartsila Combine Cycle Power...
+						</span> -->
+					</div>
+					</div>
+							<div class="well">
+						<div class="row">
+						<div class="col-xs-3" style="padding-right:0px">
+							<a href="/used/natural-gas-generators/solar-9331.htm" class="thumbnail">
+								<img src="/generators/medium/SH41dzDmCzbv.jpg" alt="Diesel Generator" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-xs-9">
+								<h4 style="margin-top:0px">
+									<a href="/used/natural-gas-generators/solar-9331.htm">22.0 MW 2007 T60 Natural Gas Generator</a>
+								</h4>
+								<p>
+									Low Hours.
+									50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling 4 x...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <a href="/used/natural-gas-generators/solar-9331.htm">
+							<img src="/generators/small/SH41dzDmCzbv.jpg" alt="Large Power Station" />
+						</a>
+						<span>
+							<a href="/used/natural-gas-generators/solar-9331.htm"><b>22.0 MW 2007 T60 Natural Gas Generator</b>.</a>
+							Low Hours.
+							50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling 4 x...
+						</span> -->
+					</div>
+					</div>
+							<div class="well">
+						<div class="row">
+						<div class="col-xs-3" style="padding-right:0px">
+							<a href="/new/diesel-generators/cummins-9025.htm" class="thumbnail">
+								<img src="/generators/medium/yNGITAQSSExL.jpg" alt="Diesel Generator" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-xs-9">
+								<h4 style="margin-top:0px">
+									<a href="/new/diesel-generators/cummins-9025.htm">10.0 MW 2018 KTA50G3 Diesel Generator</a>
+								</h4>
+								<p>
+									
+									60 Hz, 10MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+								</p>
+								<h4>
+									 
+										$8,694,000.00
+									
+								</h4>
+						</div>
+						<!-- <a href="/new/diesel-generators/cummins-9025.htm">
+							<img src="/generators/small/yNGITAQSSExL.jpg" alt="Large Power Station" />
+						</a>
+						<span>
+							<a href="/new/diesel-generators/cummins-9025.htm"><b>10.0 MW 2018 KTA50G3 Diesel Generator</b>.</a>
+							
+							60 Hz, 10MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+						</span> -->
+					</div>
+					</div>
+							<div class="well">
+						<div class="row">
+						<div class="col-xs-3" style="padding-right:0px">
+							<a href="/used/natural-gas-generators/toshiba-9525.htm" class="thumbnail">
+								<img src="/generators/medium/MMYrGMLytZ3p.jpg" alt="Diesel Generator" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-xs-9">
+								<h4 style="margin-top:0px">
+									<a href="/used/natural-gas-generators/toshiba-9525.htm">5.75 MW 2003 YAKL Natural Gas Generator</a>
+								</h4>
+								<p>
+									Low Hours.
+									50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling 5.7...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <a href="/used/natural-gas-generators/toshiba-9525.htm">
+							<img src="/generators/small/MMYrGMLytZ3p.jpg" alt="Large Power Station" />
+						</a>
+						<span>
+							<a href="/used/natural-gas-generators/toshiba-9525.htm"><b>5.75 MW 2003 YAKL Natural Gas Generator</b>.</a>
+							Low Hours.
+							50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling 5.7...
+						</span> -->
+					</div>
+					</div>
+							<div class="well">
+						<div class="row">
+						<div class="col-xs-3" style="padding-right:0px">
+							<a href="/new/natural-gas-generators/mtu-9280.htm" class="thumbnail">
+								<img src="/generators/medium/JwEdOUyFPOTN.jpg" alt="Diesel Generator" height="100" width="100">
+							</a>
+						</div>
+						<div class="col-xs-9">
+								<h4 style="margin-top:0px">
+									<a href="/new/natural-gas-generators/mtu-9280.htm">5.00 MW 2020 MTU 20V4000 GS Natural Gas Generator</a>
+								</h4>
+								<p>
+									
+									50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+								</p>
+								<h4>
+																			POA
+									
+								</h4>
+						</div>
+						<!-- <a href="/new/natural-gas-generators/mtu-9280.htm">
+							<img src="/generators/small/JwEdOUyFPOTN.jpg" alt="Large Power Station" />
+						</a>
+						<span>
+							<a href="/new/natural-gas-generators/mtu-9280.htm"><b>5.00 MW 2020 MTU 20V4000 GS Natural Gas Generator</b>.</a>
+							
+							50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+						</span> -->
+					</div>
+					</div>
+		
+				</div>
+			</div>
+
+
+
+
+
+
+
+
+<!-- <div id="generator_lists">
+		<div class="hot_gen_list" style="background-color: #eee; padding-top: 4px; padding-bottom: 2px; margin-top: 3px;">
+			<h3 style="margin: 4px 0;">Featured Items</h3>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/natural-gas-generators/ge-9044.htm">
+					<img src="/generators/small/Np1qEawpdlCf.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/natural-gas-generators/ge-9044.htm"><b>1500.0 MW 2011 GE Frame 9F Natural Gas Generator</b>.</a>
+						
+						50 Hz, 3 x 750mW Natural Gas Based Combined Cycle...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/natural-gas-generators/ge-8976.htm">
+					<img src="/generators/small/cDJvI7TdCykn.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/natural-gas-generators/ge-8976.htm"><b>750.0 MW 2011 GE Frame 9F Natural Gas Generator</b>.</a>
+						
+						50 Hz, 1 x 750 MW Natural Gas Based Combined Cycle...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/natural-gas-generators/siemens-8913.htm">
+					<img src="/generators/small/tXNlM6VFrL16.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/natural-gas-generators/siemens-8913.htm"><b>254.0 MW 1998 TG50 D5 Natural Gas Generator</b>.</a>
+						
+						50 Hz, THIS ASSET MUST SELL!! PLEASE MAKE AN OFFER. WE...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/hfo-generators/man-8980.htm">
+					<img src="/generators/small/hDE3YoN9rfP6.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/hfo-generators/man-8980.htm"><b>32.0 MW 2018 MAN 18V32/40 CD HFO Generator</b>.</a>
+						
+						No Enclosure, 50 Hz, EXCLUSIVE FROM USP&E - PRICE NEGOTIABLE!...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/diesel-generators/cummins-onan-9027.htm">
+					<img src="/generators/small/ZRhZ1fFhEeQa.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/diesel-generators/cummins-onan-9027.htm"><b>30.0 MW 2018 KTA50G3 Diesel Generator</b>.</a>
+						
+						60 Hz, 30 MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/used/hfo-generators/wrtsil-9125.htm">
+					<img src="/generators/small/Gdx5anG289g4.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/used/hfo-generators/wrtsil-9125.htm"><b>20.4 MW 2017 20V32TS HFO Generator</b>.</a>
+						
+						50 Hz, 2 x 10MW Units AVAILABLE for immediate sale!...
+					</span>
+
+				</span>
+			</div>
+			<div class="gen_list">
+				<span class="generator">
+				<a href="/new/hfo-generators/wrtsil-9182.htm">
+					<img src="/generators/small/zRV4EWaAvixm.jpg" alt="Diesel Generator" />
+				</a>
+					<span>
+						<a href="/new/hfo-generators/wrtsil-9182.htm"><b>10.2 MW 2017 20V32TS HFO Generator</b>.</a>
+						
+						50 Hz, 10MW AVAILABLE for immediate sale!
+
+Wartsila...
+					</span>
+
+				</span>
+			</div>
+
+		<div style="clear:both;"></div>
+		</div>
+
+
+        <h4 style="margin: 0.5em 30px 0;"><a href="/all/generators">Search generator inventory.</a></h4>
+
+		<div class="gen_list" style="clear:both;">
+			<h3><a href="/diesel-generators/">Diesel Generators</a></h3>
+			<span class="generator">
+			<a href="/used/diesel-generators/perkins-8954.htm">
+				<img src="/generators/small/aghrFDFnAXw0.jpg" alt="Diesel Generator" />
+			</a>
+				<span>
+					<a href="/used/diesel-generators/perkins-8954.htm"><b>20.0 MW 2008 4016TAG2A Diesel Generator</b>.</a>
+					~100 Hours.
+					50 Hz,  
+
+Subject: 4 x 20 MW High Efficiency Modern...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/new/diesel-generators/caterpillar-9165.htm">
+				<img src="/generators/small/TCu2O6Rab41J.jpg" alt="Diesel Generator" />
+			</a>
+				<span>
+					<a href="/new/diesel-generators/caterpillar-9165.htm"><b>2.50 MW 2008 3516 Diesel Generator</b>.</a>
+					
+					60 Hz, Make: Caterpillar 
+•	Model: 3516 
+•	Year...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/used/diesel-generators/caterpillar-9545.htm">
+				<img src="/generators/small/dyLGGcZW0wsi.jpg" alt="Diesel Generator" />
+			</a>
+				<span>
+					<a href="/used/diesel-generators/caterpillar-9545.htm"><b>2.00 MW 2009 XQ2000 3516B Diesel Generator</b>.</a>
+					Low Hours.
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 2...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/new/diesel-generators/caterpillar-9544.htm">
+				<img src="/generators/small/7npD1WmXLWVZ.jpg" alt="Diesel Generator" />
+			</a>
+				<span>
+					<a href="/new/diesel-generators/caterpillar-9544.htm"><b>1.30 MW 2019 3512C Diesel Generator</b>.</a>
+					
+					60 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 1.3...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/new/diesel-generators/cummins-9210.htm">
+				<img src="/generators/small/1NAnp7M3ZxR8.jpg" alt="Diesel Generator" />
+			</a>
+				<span>
+					<a href="/new/diesel-generators/cummins-9210.htm"><b>1.29 MW 2019 YUSPE1619 Diesel Generator</b>.</a>
+					
+					634.00gal Fuel Tank, No Enclosure, 60 Hz, GENSET POWERED BY CUMMINS TYPE KTA50G9 PRIME...
+				</span>
+			</span>
+
+			<a class="more" href="/diesel-generators/">More Diesel Generators &#187;</a>
+		</div>
+		<div class="gen_list">
+			<h3><a href="/natural-gas-generators/">Natural Gas Generators</a></h3>
+			<span class="generator">
+			<a href="/new/natural-gas-generators/siemens-9458.htm">
+				<img src="/generators/small/HQt67cvhyFxJ.jpg" alt="Natural Gas Generator" />
+			</a>
+				<span>
+					<a href="/new/natural-gas-generators/siemens-9458.htm"><b>298.0 MW 2016 SGT5-4000F Natural Gas Generator</b>.</a>
+					
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/mitsubishi-9538.htm">
+				<img src="/generators/small/px3bjA8fnsRc.jpg" alt="Natural Gas Generator" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/mitsubishi-9538.htm"><b>31.0 MW 2015 FT8 Natural Gas Generator</b>.</a>
+					Low Hours.
+					60 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 31...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/new/natural-gas-generators/ge-9185.htm">
+				<img src="/generators/small/qPSzZbvSl8nd.jpg" alt="Natural Gas Generator" />
+			</a>
+				<span>
+					<a href="/new/natural-gas-generators/ge-9185.htm"><b>30.7 MW 2015 TM 2500+ Natural Gas Generator</b>.</a>
+					
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling 3...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/siemens-9508.htm">
+				<img src="/generators/small/DYa7nLz8sEjd.jpg" alt="Natural Gas Generator" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/siemens-9508.htm"><b>4.20 MW 1997 SGT100 Natural Gas Generator</b>.</a>
+					Low Hours.
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+USP&E is selling: 4.2...
+				</span>
+			</span>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/caterpillar-9278.htm">
+				<img src="/generators/small/SQYSSOnIgCII.jpg" alt="Natural Gas Generator" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/caterpillar-9278.htm"><b>3.38 MW 1983 Solar C-40 Natural Gas Generator</b>.</a>
+					Low Hours.
+					50 Hz, EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+				</span>
+			</span>
+
+			<a class="more" href="/natural-gas-generators/">More Natural Gas Generators &#187;</a>
+		</div>
+
+		<div class="gen_list">
+			<h3><a href="/wattage/2010-higher/">Large Power Stations</a></h3>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/wrtsil-9124.htm">
+				<img src="/generators/small/CoCQsyG8sY2B.jpg" alt="Large Power Station" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/wrtsil-9124.htm">
+						<b>
+																					40.3 MW
+							
+						
+						 2010
+						
+						 20V34SG
+													Natural Gas
+						
+						 Power Station</b>.
+					</a>
+					Low Hours.
+					
+					
+					50 Hz, 
+					40MW Natural Gas Wartsila Combine Cycle Power...
+				</span>
+			</a>
+			</span>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/solar-9331.htm">
+				<img src="/generators/small/SH41dzDmCzbv.jpg" alt="Large Power Station" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/solar-9331.htm">
+						<b>
+																					22.0 MW
+							
+						
+						 2007
+						
+						 T60
+													Natural Gas
+						
+						 Power Station</b>.
+					</a>
+					Low Hours.
+					
+					
+					50 Hz, 
+					EXCLUSIVELY FROM USP&E! 
+USP&E is selling 4 x...
+				</span>
+			</a>
+			</span>
+			<span class="generator">
+			<a href="/new/diesel-generators/cummins-9025.htm">
+				<img src="/generators/small/yNGITAQSSExL.jpg" alt="Large Power Station" />
+			</a>
+				<span>
+					<a href="/new/diesel-generators/cummins-9025.htm">
+						<b>
+																					10.0 MW
+							
+						
+						 2018
+						
+						 KTA50G3
+													Diesel
+						
+						 Power Station</b>.
+					</a>
+					
+					
+					
+					60 Hz, 
+					10MW 
+40 x GENSET POWERED BY CUMMINS DIESEL...
+				</span>
+			</a>
+			</span>
+			<span class="generator">
+			<a href="/used/natural-gas-generators/toshiba-9525.htm">
+				<img src="/generators/small/MMYrGMLytZ3p.jpg" alt="Large Power Station" />
+			</a>
+				<span>
+					<a href="/used/natural-gas-generators/toshiba-9525.htm">
+						<b>
+																					5.75 MW
+							
+						
+						 2003
+						
+						 YAKL
+													Natural Gas
+						
+						 Power Station</b>.
+					</a>
+					Low Hours.
+					
+					
+					50 Hz, 
+					EXCLUSIVELY FROM USP&E! 
+USP&E is selling 5.7...
+				</span>
+			</a>
+			</span>
+			<span class="generator">
+			<a href="/new/natural-gas-generators/mtu-9280.htm">
+				<img src="/generators/small/JwEdOUyFPOTN.jpg" alt="Large Power Station" />
+			</a>
+				<span>
+					<a href="/new/natural-gas-generators/mtu-9280.htm">
+						<b>
+																					5.00 MW
+							
+						
+						 2020
+						
+						 MTU 20V4000 GS
+													Natural Gas
+						
+						 Power Station</b>.
+					</a>
+					
+					
+					
+					50 Hz, 
+					EXCLUSIVELY FROM USP&E! 
+
+USP&E is selling a...
+				</span>
+			</a>
+			</span>
+
+			<a class="more" href="/wattage/2010-higher/">More Large Power Stations &#187;</a>
+		</div>
+	</div>
+
+
+<div class="clear"></div>
+<br />
+<br />
+<br />
+<br /> -->
+
+<!--
+	<div id="logo_imgs" style="padding-top:10px;">
+		<img src="__images/logos/caterpillar_gen.jpg" width="191" height="97" style="position:relative; top:30px; margin-top:-30px;" />
+		<img src="__images/logos/liebert.gif" width="100" height="24" />
+		<img src="__images/logos/onan.gif" width="90" height="33" />
+		<img src="__images/logos/baldor.gif" width="145" height="37" />
+		<img src="__images/logos/john_deere.jpg" width="154" height="36" />
+		<img src="__images/logos/man_diesel.gif" width="105" height="65" />
+		<img src="__images/logos/wartsila_logo.gif" width="100" height="56" />
+		<img src="__images/logos/hyundai.jpg" width="94" height="55" />
+		<img src="__images/logos/niigata.jpg" width="154" height="45" />
+		<img src="__images/logos/wacker_neuson.jpg" width="167" height="45" />
+	</div>
+-->
+
+	<style>
+		#logo_imgs_blue {
+			padding-top: 2px;
+			padding-bottom: 2px;
+		}
+		#logo_imgs_blue img {
+			margin: 4px;
+            margin-left: 66px;
+		}
+		#main {
+			padding-bottom: 0 !important;
+		}
+	</style>
+
+
+
+
+	<div class="clear"></div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="container marketing">
+        <footer>
+
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Accolades <span class="label label-default">We love what we do!</span></h3>
+                </div>
+                <div class="panel-body">
+
+                    <div class='col-md-3'>
+                        <img class="img img-responsive" src='/__images/ey_eoy.png' alt='award company' />
+                    </div>
+                    <div class='col-md-3'>
+                        <a href='#'><img class="img img-responsive" src='/__images/dallas100.png' /></a>
+                    </div>
+                    <div class='col-md-3'>
+
+                        <a href='#'><img class="img img-responsive" src='/__images/dbj_40u40.png' /></a>
+                    </div>
+                    <div class='col-md-3'>
+
+                        <a href='#'><img class="img img-responsive" src='/__images/inc_500.png' /></a>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class='col-md-4'>
+                    <img src='/__images/uspe-footer-logo.png' alt='uspe-company-logo' />
+                </div>
+                <div class='col-md-4'>
+                    <h4>General Inquiries:</h4>
+                    <a href='mailto:info@uspowerco.com' style='color: #299127;'>info@uspowerco.com</a><br />
+                </div>
+                <div class='col-md-4'>
+                    <h3>USP&amp;E Companies:</h3>
+                    <strong>S.A. Office:</strong>
+                    <br />USP&E
+                    <br />Atrium on 5th, Floor 9
+                    <br />Sandton, 2196
+                    <br />Gauteng, South Africa
+
+                </div>
+            </div>
+
+
+            <br /><br />
+            <div class="row">
+                <p class="pull-right"><a href="#">Back to top</a></p>
+                <p>&copy; 2005-2019, US Power & Environment &middot; <a href="http://www.uspowerco.com/sitemap.htm">Privacy</a> &middot; <a href="http://www.uspowerco.com/contact">Contact Us</a></p>
+
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="/__js/jquery_3.min.js"><\/script>')
+    </script>
+    <script src="/__js/bootstrap_3.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="/__js/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/__js/ie10-viewport-bug-workaround.js"></script>
+</body>
+
+</html>
